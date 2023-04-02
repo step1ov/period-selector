@@ -1,6 +1,6 @@
 {
   "name": "@antd-extensions/period-selector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dates period selector component based on antd and dayjs",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
