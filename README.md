@@ -7,6 +7,8 @@
 
 Period selector component based on antd and dayjs.
 
+[**Live Demo**](https://step1ov.github.io/period-selector/)
+
 ## Installation
 
 ```bash
