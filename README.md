@@ -1,6 +1,11 @@
 # Period Selector
 
-Dates period selector component based on antd and dayjs.
+[![NPM version][npm-image]][npm-url]
+[![Build][github-build]][github-build-url]
+![npm-typescript]
+[![License][github-license]][github-license-url]
+
+Period selector component based on antd and dayjs.
 
 ## Installation
 
@@ -77,3 +82,11 @@ const LocalizationExample = () => {
 
 export default LocalizationExample;
 ```
+
+[npm-url]: https://www.npmjs.com/package/@antd-extensions/period-selector
+[npm-image]: https://img.shields.io/npm/v/@antd-extensions/period-selector
+[github-license]: https://img.shields.io/github/license/step1ov/period-selector
+[github-license-url]: https://github.com/step1ov/period-selector/blob/master/LICENSE
+[github-build]: https://github.com/step1ov/period-selector/actions/workflows/publish.yml/badge.svg
+[github-build-url]: https://github.com/step1ov/period-selector/actions/workflows/publish.yml
+[npm-typescript]: https://img.shields.io/npm/types/@antd-extensions/period-selector
