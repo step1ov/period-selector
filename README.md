@@ -5,7 +5,11 @@
 ![npm-typescript]
 [![License][github-license]][github-license-url]
 
-Period selector component based on antd and dayjs.
+Period selector component based on Ant Design 5 and dayjs.
+
+![Alt text](https://raw.githubusercontent.com/step1ov/period-selector/screenshots/screenshots/period-selector.png "Optional Title")
+
+Provides such period options: today, yesterday, week, month, quarter, year, date selection, date range.
 
 [**Live Demo**](https://step1ov.github.io/period-selector/)
 
